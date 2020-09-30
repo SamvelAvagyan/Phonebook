@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\bin\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.exe
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\bin\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.deps.json
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\bin\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.runtimeconfig.json
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\bin\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\bin\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.dll
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\bin\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.pdb
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\obj\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\obj\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\obj\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\obj\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\obj\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.dll
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\obj\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.pdb
+C:\Users\Acer\source\repos\Mic.VetEducation.PhoneBook\Mic.VetEducation.PhoneBook\obj\Debug\netcoreapp3.1\Mic.VetEducation.PhoneBook.genruntimeconfig.cache
